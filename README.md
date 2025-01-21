@@ -1,29 +1,4 @@
-# drink-order
+# Vue3-飲料點餐系統
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+##線上實體操作
+https://stackblitz.com/edit/vitejs-vite-srxsrytk?file=index.html,src%2FApp.vue,src%2Fmain.js&terminal=dev
